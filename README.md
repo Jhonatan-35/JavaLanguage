@@ -1,10 +1,10 @@
 # Java Language
-Mobile App by using  diferents lenguages progrmmings
+Learn the Java language in 2 weeks by doing practice exercises and creating a calculator project
 # Overview
-Mobile App Weather Project
-As a general description, the application is based on a weather search application, allowing users to enter any different city from around the world. It is based on interacting with images and colors, stylizing according to the weather, which is displayed with real-time icons. It also showcases and explores the weather of the world's best cities. It was created using different programming languages ​​such as JavaScript and React, among other major programming languages.
+Java Language Project
+As a general description, the Java programming language learning course involves learning different topics over two weeks, applying each topic through exercises, interacting with different data variables, and creating various projects. Above all, it focuses on putting the new programming language into practice.
 
-The main purpose of this application is to make it easier for users to find out the real-time weather in other cities and countries around the world.
+The main purpose of learning the Java programming language is to gain a deeper understanding of this new programming language, to be able to apply it and create projects with this new programming language, and to create a main project that helps to apply the knowledge within the Java software development environment.
 
 
 
