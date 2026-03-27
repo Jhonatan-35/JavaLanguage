@@ -2,7 +2,7 @@ import  javax.swing.*;
 import  java.awt.*;
 import  java.awt.event.*;
 
-public class Calculator extends JFrame implements ActionListener{  // This is class for important tehhdd
+public class Calculator extends JFrame implements ActionListener{  // This is class for important 
 	JTextField campo;
 	double num1,num2 , result;
 	String operator;
@@ -53,9 +53,9 @@ public class Calculator extends JFrame implements ActionListener{  // This is cl
 			
 			switch (operator) {
 			    case "+": result = num1 + num2 ; break;
-			    case "-": result = num1 + num2 ; break;
-			    case "*": result = num1 + num2 ; break;
-			    case "/": result = num1 + num2 ; break;
+			    case "-": result = num1 - num2 ; break;
+			    case "*": result = num1 * num2 ; break;
+			    case "/": result = num1 / num2 ; break;
 			
 				
 			}
