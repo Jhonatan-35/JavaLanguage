@@ -2,7 +2,7 @@ import  javax.swing.*;
 import  java.awt.*;
 import  java.awt.event.*;
 
-public class Calculator extends JFrame implements ActionListener{  // This is class for important
+public class Calculator extends JFrame implements ActionListener{  // This is class for important tehhdd
 	JTextField campo;
 	double num1,num2 , result;
 	String operator;
